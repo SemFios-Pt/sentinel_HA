@@ -1,2 +1,2 @@
-# sentinel_HA
+# Sentinel_HA
 # Redis Sentinel com Haproxy para alta disponibilidade
